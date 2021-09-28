@@ -6,6 +6,7 @@ Bár rengeteg számológép alkalmazás található a piacon, viszont ezek nagyr
 
 # Követelménylista
 Modul | Név | Kifejtés
+-|-|-
 Kijelző | Kijelző | A felhasználó által elvégzett műveletek és számolások itt jelennek meg.
 Gomb | Összeadás | Két vagy akár több szám összeadása.
 Gomb | Kivonás | Két vagy akár több szám kivonása egymásból.
