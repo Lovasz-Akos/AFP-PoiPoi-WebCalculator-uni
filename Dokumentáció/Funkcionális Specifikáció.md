@@ -21,3 +21,6 @@ Gomb | CE | Az éppen aktuálisan felvitt szám nullázása, ha van részeredmé
 Gomb | Számok | A számok gombjai, ezek 1-9-ig terjednek, ezekkel tudjuk felvinni a kívánt számokat a számoláshoz.
 Gomb | Négyzet | Az éppen aktuálisan felvitt szám négyzetre emelése.
 Gomb | Négyzetgyök | Az éppen aktuálisan felvitt szám négyzetgyökének kiírása.
+
+# Jelenlegi üzleti folyamatok modellje
+Manapság egyre többen használunk számológépet, akár iskolában, akár otthon a házi feladatok megírására, vagy akár akkor is ha hirtelen kiakarunk valamit számolni. A csapat több tagja is szembesült már azzal a problémával, amikor hiretelen számológépre volt szüksége, ám a rendelkezésre álló számológép alkalmazás nem volt megfelelő, vagy nem volt több platformon elérhető, vagy nem rendelkezett a megfelelő funkciókkal és ezáltal nem volt képes a megfelelő műveleteket elvégezni, vagy pedig a rengeteg reklám zavarta a feladat megoldását, és még egy olyan kezelőfelülettel is összefuthatunk ami abszolút nem felhasználó barát. Pontosan ezek miatt fogalmazódott meg az ötlet csapatunkba, hogy fejlesszünk egy olyan számológépet ami több platformon elérhető, ingyenes és reklámmentes. Megvizsgáltuk több számológép alkalmazásnak a dizájnját és funkcióit, és ezekből próbáljuk megalkotni a megfelelő számológép alkalmazást.
