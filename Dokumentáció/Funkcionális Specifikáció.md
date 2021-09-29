@@ -41,15 +41,25 @@ Manapság egyre többen használunk számológépet, akár iskolában, akár ott
 # Forgatókönyvek
  Célja: segítse a felhasználót a számítási feladatok kiszámításában: összeadás, kivonás, szorzás, osztás, gyökvonás, négyzetre emelés.
  Összeadás: Elsőnek megnyomod azt a számgombot, amit össze akarsz adni valamivel. Ezután rákattintasz a + jelre, ami az összeadást szolgálja. Utána arra a számra kell kattintanod, amit hozzá akarsz adni az előző számhoz. Végül rákattintasz az egyenlőség jelre, és a számológép kijelzőjén leolvasod az eredményt.
+
  Kivonás: Elsőnek megnyomod azt a számgombot, amiből ki akarsz vonni egy másik számot. Ezután rákattintasz a - jelre, ami a kivonást szolgálja. Utána arra a számra kell kattintanod, amit ki akarsz vonni az előző számból. Végül rákattintasz az egyenlőség jelre, és a számológép kijelzőjén leolvasod az eredményt.
+
  Szorzás: Elsőnek megnyomod azt a számgombot, amit össze akarsz szorozni valamivel. Ezután rákattintasz a × jelre, ami a szorzást szolgálja. Utána arra a számra kell kattintanod, amit össze akarsz szorozni az előző számmal. Végül rákattintasz az egyenlőség jelre, és a számológép kijelzőjén leolvasod az eredményt.
+
  Osztás: Elsőnek megnyomod azt a számgombot, amit osztani akarsz valamivel. Ezután rákattintasz a / jelre, ami az osztást szolgálja. Utána arra a számra kell kattintanod, amivel osztani akarod az előző számot. Végül rákattintasz az egyenlőség jelre, és a számológép kijelzőjén leolvasod az eredményt.
+
  Tizedes vessző: Ha olyan számmal akarsz műveletet végezni, ami nem egész szám (tört szám), akkor először rákattintasz az egész részt jelző számjegyre/számjegyekre, majd a tizedes vesszőre, és utána arra a számjegyre/számjegyekre, ami/amik a tört részben jelenik/jelennek meg.
+
  Előjel változtatás: Ha negatív számmal szeretnél műveletet végezni, akkor először rákattintasz a +/- gombra, majd a számjegyre/számjegyekre.
+
  Visszavonás: Ha rossz számot írtál be, akkor a visszavonás gombra kattintva kitörölheted az utolsó számjegyet. A gomb többszöre megnyomásával az mindig aktuális utolsó számjegy kerül törlésre.
+
  C: Ha ki akarod törölni az összes számítást, kattints a C gombra. Ezzel kitörlődik az összes számjegy, amit felvittél, valamint a részeredmények sem maradnak meg.
+
  CE: Ha rosszul vitted fel a számjegyet/számjegyeket, akkor a CE gomb egyszeri megnyomásával tudod kitörölni a számjegyet/számjegyeket amnélkül, hogy a részeredmény elveszne.
+
  Négyzet: Először megnyomod azt a számgombot, amit négyzetre szeretnél emelni, majd rákattintasz a Négyzet gombra, ami az általad felvitt számjegyet/számjegyeket megszorozza önmagával.
  Négyzetgyök: Először megnyomod azt a számgombot, amiből gyököt szeretnél vonni, majd rákattintasz a Négyzetgyök gombra, ami az általad felvitt számjegyen négyzetgyökvonási műveletet végez el.
+ 
  Egyéb: Ha rossz műveleti jelre kattintasz, ki tudod cserélni a következőnek leütött műveleti jellel. Pl.: Ha a +, azaz az összeadás jelre kattintottál rá, és még a számjegy bevitele előtt rákattintasz a ×, azaz a szorzás jelre, akkor a műveleti jel a ×, azaz a szorzás lesz.
  
