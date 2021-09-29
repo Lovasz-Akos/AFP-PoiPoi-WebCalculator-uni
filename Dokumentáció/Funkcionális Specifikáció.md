@@ -61,7 +61,7 @@ A fejlesztő ezeken kívűl egyetemhez szükséges műveleteket, és további el
 - Stb.
 
 # Képernyőterv
-![Képernyőterv](/Dokumentáció/Képek/design.png)
+![Képernyőterv](/Dokumentáció/Képek/design.PNG)
 
 # Fogalomszótár
  - HTML: (angolul: HyperText Markup Language=hiperszöveges jelölőnyelv) egy leíró nyelv, melyet weboldalak készítéséhez fejlesztettek ki, miden weboldal alappillére.
