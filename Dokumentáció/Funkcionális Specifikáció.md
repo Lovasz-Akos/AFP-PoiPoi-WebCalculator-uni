@@ -33,7 +33,7 @@ Manapság egyre többen használunk számológépet, akár iskolában, akár ott
  - A felhasználónak, amennyiben rendelkezik az "alkalmazással" nincs szükségre internetkapcsolatra a használathoz
  - Az informatikai hallgatók részére pedig képes lesz számrendszerek közötti átváltásra is
 
-#Használati esetek
+# Használati esetek
 
 A felhasználó legfőképpen alapműveletek elvégzésére tudja használni a számológépet.
 Abban az esetben tudja használni a számológépet, amennyiben szeretné az alábbi műveletek valamelyikét elvégezni:
