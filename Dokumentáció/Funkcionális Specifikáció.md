@@ -33,6 +33,7 @@ Manapság egyre többen használunk számológépet, akár iskolában, akár ott
  - A felhasználónak, amennyiben rendelkezik az "alkalmazással" nincs szükségre internetkapcsolatra a használathoz
  - Az informatikai hallgatók részére pedig képes lesz számrendszerek közötti átváltásra is
 
+
 # Használati esetek
 
 A felhasználó legfőképpen alapműveletek elvégzésére tudja használni a számológépet.
@@ -58,3 +59,9 @@ A fejlesztő ezeken kívűl egyetemhez szükséges műveleteket, és további el
 - Trigonometria
 - Pi értéke
 - Stb.
+
+# Fogalomszótár
+ - HTML: (angolul: HyperText Markup Language=hiperszöveges jelölőnyelv) egy leíró nyelv, melyet weboldalak készítéséhez fejlesztettek ki, miden weboldal alappillére.
+ - CSS: (Cascading Style Sheets, magyarul: lépcsőzetes stíluslapok)  egy stílusleíró nyelv, mely a HTML típusú strukturált dokumentumok megjelenését írja le.
+ - JavaScript: Programozási nyelv egy objektumorientált, prototípus-alapú szkriptnyelv, amelyet weboldalakon elterjedten használnak.
+
