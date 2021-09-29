@@ -32,3 +32,8 @@ Manapság egyre többen használunk számológépet, akár iskolában, akár ott
  - A számológép gyökvonásra és négyzetre emelésre is képes lesz
  - A felhasználónak, amennyiben rendelkezik az "alkalmazással" nincs szükségre internetkapcsolatra a használathoz
  - Az informatikai hallgatók részére pedig képes lesz számrendszerek közötti átváltásra is
+
+# Fogalomszótár
+ - HTML: (angolul: HyperText Markup Language=hiperszöveges jelölőnyelv) egy leíró nyelv, melyet weboldalak készítéséhez fejlesztettek ki, miden weboldal alappillére.
+ - CSS: (Cascading Style Sheets, magyarul: lépcsőzetes stíluslapok)  egy stílusleíró nyelv, mely a HTML típusú strukturált dokumentumok megjelenését írja le.
+ - JavaScript: Programozási nyelv egy objektumorientált, prototípus-alapú szkriptnyelv, amelyet weboldalakon elterjedten használnak.
