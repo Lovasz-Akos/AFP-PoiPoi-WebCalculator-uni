@@ -60,6 +60,9 @@ A fejlesztő ezeken kívűl egyetemhez szükséges műveleteket, és további el
 - Pi értéke
 - Stb.
 
+# Képernyőterv
+![Képernyőterv](/Dokumentáció/Képek/design.PNG)
+
 # Fogalomszótár
  - HTML: (angolul: HyperText Markup Language=hiperszöveges jelölőnyelv) egy leíró nyelv, melyet weboldalak készítéséhez fejlesztettek ki, miden weboldal alappillére.
  - CSS: (Cascading Style Sheets, magyarul: lépcsőzetes stíluslapok)  egy stílusleíró nyelv, mely a HTML típusú strukturált dokumentumok megjelenését írja le.
