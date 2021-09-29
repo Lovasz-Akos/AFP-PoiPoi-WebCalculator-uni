@@ -24,3 +24,11 @@ Gomb | Négyzetgyök | Az éppen aktuálisan felvitt szám négyzetgyökének ki
 
 # Jelenlegi üzleti folyamatok modellje
 Manapság egyre többen használunk számológépet, akár iskolában, akár otthon a házi feladatok megírására, vagy akár akkor is ha hirtelen kiakarunk valamit számolni. A csapat több tagja is szembesült már azzal a problémával, amikor hiretelen számológépre volt szüksége, ám a rendelkezésre álló számológép alkalmazás nem volt megfelelő, vagy nem volt több platformon elérhető, vagy nem rendelkezett a megfelelő funkciókkal és ezáltal nem volt képes a megfelelő műveleteket elvégezni, vagy pedig a rengeteg reklám zavarta a feladat megoldását, és még egy olyan kezelőfelülettel is összefuthatunk ami abszolút nem felhasználó barát. Pontosan ezek miatt fogalmazódott meg az ötlet csapatunkban, hogy fejlesszünk egy olyan számológépet ami több platformon elérhető, ingyenes és reklámmentes. Megvizsgáltuk több számológép alkalmazásnak a kezelőfelületét és funkcióit, és ezekből próbáljuk megalkotni a megfelelő számológép alkalmazást.
+
+# Igényelt üzleti folyamatok modellje
+ - A felhasználónak semmilyen regisztráció nem szükséges a számológép használatához
+ - A felület mobilon lesz natív, de a reszponzív kialakítás miatt máson is használható lesz
+ - A felhasználó képes lesz a 4 alapművelet elvégzésére konkatenált módon
+ - A számológép gyökvonásra és négyzetre emelésre is képes lesz
+ - A felhasználónak, amennyiben rendelkezik az "alkalmazással" nincs szükségre internetkapcsolatra a használathoz
+ - Az informatikai hallgatók részére pedig képes lesz számrendszerek közötti átváltásra is
