@@ -32,3 +32,29 @@ Manapság egyre többen használunk számológépet, akár iskolában, akár ott
  - A számológép gyökvonásra és négyzetre emelésre is képes lesz
  - A felhasználónak, amennyiben rendelkezik az "alkalmazással" nincs szükségre internetkapcsolatra a használathoz
  - Az informatikai hallgatók részére pedig képes lesz számrendszerek közötti átváltásra is
+
+#Használati esetek
+
+A felhasználó legfőképpen alapműveletek elvégzésére tudja használni a számológépet.
+Abban az esetben tudja használni a számológépet, amennyiben szeretné az alábbi műveletek valamelyikét elvégezni:
+
+- Összeadás gomb: Két vagy akár több szám összeadása. 
+- Kivonás gomb: Két vagy akár több szám kivonása egymásból. 
+- Szorzás gomb: Két vagy akár több szám összeszorzása.
+- Osztás gomb: Két szám osztása egymással. 
+- Előjel változtatás gomb: Egy szám előjelének megváltoztatását teszi lehetővé. 
+- Négyzetre emelés gomb: Az éppen aktuálisan felvitt szám négyzetre emelése. 
+- Négyzetgyök gomb: Az éppen aktuálisan felvitt szám négyzetgyökének kiírása.
+- Eredmény gomb: A számítások befejezése, az erdemények kiíratása. 
+- Tizedes vessző gomb: Megadhatjuk egy szának a tizedes vessző után levő értékeit. 
+- Előjel változtatás gomb: Egy szám előjelének megváltoztatását teszi lehetővé. 
+- Visszavonás gomb: Az utolsó számjegy törlése. 
+- C gomb: Az éppen aktuálisan felvitt szám nullázása, a részeredmény is nulázásra kerül. 
+- CE gomb: Az éppen aktuálisan felvitt szám nullázása, ha van részeredmény az megmarad.
+
+A fejlesztő ezeken kívűl egyetemhez szükséges műveleteket, és további elemeket is hozzá tudja adni:
+
+- Logaritmus
+- Trigonometria
+- Pi értéke
+- Stb.
