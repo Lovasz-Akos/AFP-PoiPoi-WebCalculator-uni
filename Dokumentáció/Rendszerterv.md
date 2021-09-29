@@ -18,5 +18,8 @@
 
 # Telepítési terv
  A program eléréséhez csak egy böngésző telepítésére lesz szükség (Google Crome, Firefox, Opera, Safari), amelyet a Google áruházból lehet letölteni. Adja meg a szükséges engedélyeket és telepítse a böngészőt. Ezt követően a megfelelő URL cím beírását követően van lehetőség a program elérésére.
- 
+
+# Karbantartási terv
+ A jövőben felmerülő esetleg további igények kielégítése érdekében fenntartjuk a program üzemeltetését és karbantartását, valamint ha hiba/probléma merülne fel a program használata közben. Ezenkívül a későbbiekben beépíthetünk egy olyan plusz lehetőséget is, mely engedélyezi a program letöltését/telepítését, a gyakran használt képletek tárolását, a kinézet alakítását.
+
   
