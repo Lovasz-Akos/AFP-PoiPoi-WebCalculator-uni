@@ -26,4 +26,11 @@
 
 Alapvetően a dokumentum megírását nagyjából egyenlően próbáltuk elosztani.
 A program kódot szintén nagyjából felosztottuk egymás között, némelyik témakörben közösen dolgozunk majd.
-  
+
+# Fizikai környezet
+
+A program csak webes felületen működik. 
+A számológépen elérhető az összes funkció amit látni fog a felhasználó. Fejlesztői eszközként az alábbiakat használjuk: 
+ - Html
+ - css
+ - javascript  
