@@ -22,12 +22,36 @@
 # Karbantartási terv
  A jövőben felmerülő esetleg további igények kielégítése érdekében fenntartjuk a program üzemeltetését és karbantartását, valamint ha hiba/probléma merülne fel a program használata közben. Ezenkívül a későbbiekben beépíthetünk egy olyan plusz lehetőséget is, mely engedélyezi a program letöltését/telepítését, a gyakran használt képletek tárolását, a kinézet alakítását.
 
+# Projektterv
+
+Alapvetően a dokumentum megírását nagyjából egyenlően próbáltuk elosztani.
+A program kódot szintén nagyjából felosztottuk egymás között, némelyik témakörben közösen dolgozunk majd.
+
+Tag|Felelősség
+-|-
+Farkas Erik|Logika fejlesztő, Dokumentáció
+Zöldi Tóth István|Design fejlesztő, Dokumentáció
+Karsai Petra|Design tervező, Dokumentáció
+Maka Bettina|Rendszerszervező, Dokumentáció
+  
 # A rendszer célja
 
 A felhasználó a számológép segítségével képes legyen alapvető műveleteket elvégezni.
 Mindemelett a négyzetre emelést és a négyzetgyökvonást is eltudja végezni.
 Fontos, hogy a felhasználó el tudjon igazodni a számológépen.
 A rendszert a felhasználók csak webes felületen, tehát valamelyik böngészőben tudják majd használni (Google Crome, Firefox, Opera, Safari, stb.).
+
+# Fizikai környezet
+
+A program csak webes felületen működik. 
+A számológépen elérhető az összes funkció amit látni fog a felhasználó. Fejlesztői eszközként az alábbiakat használjuk: 
+ - Html
+ - css
+ - javascript  
+ 
+# Architekturális terv
+
+A programhoz nem szükséges semmit telepíteni, hiszen az egész webes felületen lesz elérhető. Mindezek mellett html-t, css-t, és javascriptet használunk. 
 
 # Funkcionális terv
 
@@ -41,7 +65,6 @@ Rendszerhasználati esetek és lefutásaik:
  - Kivonás gomb: Két vagy akár több szám kivonása egymásból. 
  - Szorzás gomb: Két vagy akár több szám összeszorzása.
  - Osztás gomb: Két szám osztása egymással. 
- - Előjel változtatás gomb: Egy szám előjelének megváltoztatását teszi lehetővé. 
  - Négyzetre emelés gomb: Az éppen aktuálisan felvitt szám négyzetre emelése. 
  - Négyzetgyök gomb: Az éppen aktuálisan felvitt szám négyzetgyökének kiírása.
  - Eredmény gomb: A számítások befejezése, az erdemények kiíratása. 
@@ -50,7 +73,7 @@ Rendszerhasználati esetek és lefutásaik:
  - Visszavonás gomb: Az utolsó számjegy törlése. 
  - C gomb: Az éppen aktuálisan felvitt szám nullázása, a részeredmény is nulázásra kerül. 
  - CE gomb: Az éppen aktuálisan felvitt szám nullázása, ha van részeredmény az megmarad.
-
+ 
 # Teszt terv
 
 Unit teszt:
@@ -80,5 +103,3 @@ Tesztelendő funkciók:
  - Visszavonás
  - C 
  - CE
-
-
