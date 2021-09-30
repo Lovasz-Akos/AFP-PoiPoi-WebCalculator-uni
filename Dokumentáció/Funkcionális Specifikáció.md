@@ -42,8 +42,7 @@ Abban az esetben tudja használni a számológépet, amennyiben szeretné az al�
 - Összeadás gomb: Két vagy akár több szám összeadása. 
 - Kivonás gomb: Két vagy akár több szám kivonása egymásból. 
 - Szorzás gomb: Két vagy akár több szám összeszorzása.
-- Osztás gomb: Két szám osztása egymással. 
-- Előjel változtatás gomb: Egy szám előjelének megváltoztatását teszi lehetővé. 
+- Osztás gomb: Két szám osztása egymással.
 - Négyzetre emelés gomb: Az éppen aktuálisan felvitt szám négyzetre emelése. 
 - Négyzetgyök gomb: Az éppen aktuálisan felvitt szám négyzetgyökének kiírása.
 - Eredmény gomb: A számítások befejezése, az erdemények kiíratása. 

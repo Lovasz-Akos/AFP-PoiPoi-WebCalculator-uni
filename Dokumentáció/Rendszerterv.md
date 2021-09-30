@@ -34,3 +34,10 @@ Zöldi Tóth István|Design fejlesztő, Dokumentáció
 Karsai Petra|Design tervező, Dokumentáció
 Maka Bettina|Rendszerszervező, Dokumentáció
   
+# A rendszer célja
+
+A felhasználó a számológép segítségével képes legyen alapvető műveleteket elvégezni.
+Mindemelett a négyzetre emelést és a négyzetgyökvonást is eltudja végezni.
+Fontos, hogy a felhasználó el tudjon igazodni a számológépen.
+A rendszert a felhasználók csak webes felületen, tehát valamelyik böngészőben tudják majd használni (Google Crome, Firefox, Opera, Safari, stb.).
+
