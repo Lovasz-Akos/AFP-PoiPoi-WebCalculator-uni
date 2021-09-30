@@ -28,3 +28,25 @@ A felhasználó a számológép segítségével képes legyen alapvető művelet
 Mindemelett a négyzetre emelést és a négyzetgyökvonást is eltudja végezni.
 Fontos, hogy a felhasználó el tudjon igazodni a számológépen.
 A rendszert a felhasználók csak webes felületen, tehát valamelyik böngészőben tudják majd használni (Google Crome, Firefox, Opera, Safari, stb.).
+
+# Funkcionális terv
+
+Rendszerszereplők:
+ - Felhasználó
+ - Fejlesztők
+
+Rendszerhasználati esetek és lefutásaik:
+
+ - Összeadás gomb: Két vagy akár több szám összeadása. 
+ - Kivonás gomb: Két vagy akár több szám kivonása egymásból. 
+ - Szorzás gomb: Két vagy akár több szám összeszorzása.
+ - Osztás gomb: Két szám osztása egymással. 
+ - Előjel változtatás gomb: Egy szám előjelének megváltoztatását teszi lehetővé. 
+ - Négyzetre emelés gomb: Az éppen aktuálisan felvitt szám négyzetre emelése. 
+ - Négyzetgyök gomb: Az éppen aktuálisan felvitt szám négyzetgyökének kiírása.
+ - Eredmény gomb: A számítások befejezése, az erdemények kiíratása. 
+ - Tizedes vessző gomb: Megadhatjuk egy szának a tizedes vessző után levő értékeit. 
+ - Előjel változtatás gomb: Egy szám előjelének megváltoztatását teszi lehetővé. 
+ - Visszavonás gomb: Az utolsó számjegy törlése. 
+ - C gomb: Az éppen aktuálisan felvitt szám nullázása, a részeredmény is nulázásra kerül. 
+ - CE gomb: Az éppen aktuálisan felvitt szám nullázása, ha van részeredmény az megmarad.
