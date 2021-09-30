@@ -52,3 +52,24 @@ A számológépen elérhető az összes funkció amit látni fog a felhasználó
  # Architekturális terv
 
 A programhoz nem szükséges semmit telepíteni, hiszen az egész webes felületen lesz elérhető. Mindezek mellett html-t, css-t, és javascriptet használunk. 
+
+# Funkcionális terv
+
+Rendszerszereplők:
+ - Felhasználó
+ - Fejlesztők
+
+Rendszerhasználati esetek és lefutásaik:
+
+ - Összeadás gomb: Két vagy akár több szám összeadása. 
+ - Kivonás gomb: Két vagy akár több szám kivonása egymásból. 
+ - Szorzás gomb: Két vagy akár több szám összeszorzása.
+ - Osztás gomb: Két szám osztása egymással. 
+ - Négyzetre emelés gomb: Az éppen aktuálisan felvitt szám négyzetre emelése. 
+ - Négyzetgyök gomb: Az éppen aktuálisan felvitt szám négyzetgyökének kiírása.
+ - Eredmény gomb: A számítások befejezése, az erdemények kiíratása. 
+ - Tizedes vessző gomb: Megadhatjuk egy szának a tizedes vessző után levő értékeit. 
+ - Előjel változtatás gomb: Egy szám előjelének megváltoztatását teszi lehetővé. 
+ - Visszavonás gomb: Az utolsó számjegy törlése. 
+ - C gomb: Az éppen aktuálisan felvitt szám nullázása, a részeredmény is nulázásra kerül. 
+ - CE gomb: Az éppen aktuálisan felvitt szám nullázása, ha van részeredmény az megmarad.
