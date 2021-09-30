@@ -27,14 +27,28 @@
 Alapvetően a dokumentum megírását nagyjából egyenlően próbáltuk elosztani.
 A program kódot szintén nagyjából felosztottuk egymás között, némelyik témakörben közösen dolgozunk majd.
 
+Tag|Felelősség
+-|-
+Farkas Erik|Logika fejlesztő, Dokumentáció
+Zöldi Tóth István|Design fejlesztő, Dokumentáció
+Karsai Petra|Design tervező, Dokumentáció
+Maka Bettina|Rendszerszervező, Dokumentáció
+  
+# A rendszer célja
+
+A felhasználó a számológép segítségével képes legyen alapvető műveleteket elvégezni.
+Mindemelett a négyzetre emelést és a négyzetgyökvonást is eltudja végezni.
+Fontos, hogy a felhasználó el tudjon igazodni a számológépen.
+A rendszert a felhasználók csak webes felületen, tehát valamelyik böngészőben tudják majd használni (Google Crome, Firefox, Opera, Safari, stb.).
+
 # Fizikai környezet
 
 A program csak webes felületen működik. 
 A számológépen elérhető az összes funkció amit látni fog a felhasználó. Fejlesztői eszközként az alábbiakat használjuk: 
  - Html
  - css
- - javascript
-
-# Architekturális terv
+ - javascript  
+ 
+ # Architekturális terv
 
 A programhoz nem szükséges semmit telepíteni, hiszen az egész webes felületen lesz elérhető. Mindezek mellett html-t, css-t, és javascriptet használunk. 
