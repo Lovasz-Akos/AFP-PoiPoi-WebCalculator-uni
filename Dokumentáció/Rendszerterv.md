@@ -22,4 +22,8 @@
 # Karbantartási terv
  A jövőben felmerülő esetleg további igények kielégítése érdekében fenntartjuk a program üzemeltetését és karbantartását, valamint ha hiba/probléma merülne fel a program használata közben. Ezenkívül a későbbiekben beépíthetünk egy olyan plusz lehetőséget is, mely engedélyezi a program letöltését/telepítését, a gyakran használt képletek tárolását, a kinézet alakítását.
 
+# Projektterv
+
+Alapvetően a dokumentum megírását nagyjából egyenlően próbáltuk elosztani.
+A program kódot szintén nagyjából felosztottuk egymás között, némelyik témakörben közösen dolgozunk majd.
   
