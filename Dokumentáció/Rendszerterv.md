@@ -26,4 +26,11 @@
 
 Alapvetően a dokumentum megírását nagyjából egyenlően próbáltuk elosztani.
 A program kódot szintén nagyjából felosztottuk egymás között, némelyik témakörben közösen dolgozunk majd.
+
+Tag|Felelősség
+-|-
+Farkas Erik|Logika fejlesztő, Dokumentáció
+Zöldi Tóth István|Design fejlesztő, Dokumentáció
+Karsai Petra|Design tervező, Dokumentáció
+Maka Bettina|Rendszerszervező, Dokumentáció
   
