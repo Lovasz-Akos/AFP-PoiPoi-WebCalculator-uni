@@ -41,3 +41,10 @@ Mindemelett a négyzetre emelést és a négyzetgyökvonást is eltudja végezni
 Fontos, hogy a felhasználó el tudjon igazodni a számológépen.
 A rendszert a felhasználók csak webes felületen, tehát valamelyik böngészőben tudják majd használni (Google Crome, Firefox, Opera, Safari, stb.).
 
+# Fizikai környezet
+
+A program csak webes felületen működik. 
+A számológépen elérhető az összes funkció amit látni fog a felhasználó. Fejlesztői eszközként az alábbiakat használjuk: 
+ - Html
+ - css
+ - javascript  
