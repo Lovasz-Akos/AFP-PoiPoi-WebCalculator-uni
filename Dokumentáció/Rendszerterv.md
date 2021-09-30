@@ -22,4 +22,9 @@
 # Karbantartási terv
  A jövőben felmerülő esetleg további igények kielégítése érdekében fenntartjuk a program üzemeltetését és karbantartását, valamint ha hiba/probléma merülne fel a program használata közben. Ezenkívül a későbbiekben beépíthetünk egy olyan plusz lehetőséget is, mely engedélyezi a program letöltését/telepítését, a gyakran használt képletek tárolását, a kinézet alakítását.
 
-  
+# A rendszer célja
+
+A felhasználó a számológép segítségével képes legyen alapvető műveleteket elvégezni.
+Mindemelett a négyzetre emelést és a négyzetgyökvonást is eltudja végezni.
+Fontos, hogy a felhasználó el tudjon igazodni a számológépen.
+A rendszert a felhasználók csak webes felületen, tehát valamelyik böngészőben tudják majd használni (Google Crome, Firefox, Opera, Safari, stb.).
