@@ -33,4 +33,8 @@ A program csak webes felületen működik.
 A számológépen elérhető az összes funkció amit látni fog a felhasználó. Fejlesztői eszközként az alábbiakat használjuk: 
  - Html
  - css
- - javascript  
+ - javascript
+
+# Architekturális terv
+
+A programhoz nem szükséges semmit telepíteni, hiszen az egész webes felületen lesz elérhető. Mindezek mellett html-t, css-t, és javascriptet használunk. 
