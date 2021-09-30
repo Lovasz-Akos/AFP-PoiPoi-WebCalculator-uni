@@ -50,3 +50,35 @@ Rendszerhasználati esetek és lefutásaik:
  - Visszavonás gomb: Az utolsó számjegy törlése. 
  - C gomb: Az éppen aktuálisan felvitt szám nullázása, a részeredmény is nulázásra kerül. 
  - CE gomb: Az éppen aktuálisan felvitt szám nullázása, ha van részeredmény az megmarad.
+
+# Teszt terv
+
+Unit teszt:
+
+Minden egyes műveletnél (például: összeadás, kivonás, stb.) érdemes tesztelni már a fejlesztési idő alatt is.
+
+Alfa teszt:
+
+Ezt a tesztet, mi fejlesztők végezzük. Az alapvető, és az összes műveleteket leteszteljük hogy megfelelően működik-e. Ezt minél több böngészőben próbáljuk kivitelezni.
+
+Beta teszt:
+
+Ezt a tesztet már nem mi, fejlesztők végezzük, hanem véletlenszerűen kiválasztott ismerősöknek/embereknek a setgítségét kérjük.
+A felhasználó a maga, sajátos módján tesztelheti a programot.
+Ha hiba lép fel, akkor a fejlesztők kijavítják a probléma gyökerét.
+
+Tesztelendő funkciók:
+ - Összeadás
+ - Kivonás 
+ - Szorzás
+ - Osztás
+ - Előjel változtatás 
+ - Négyzetre emelés 
+ - Négyzetgyök
+ - Eredmény
+ - Tizedes vessző 
+ - Visszavonás
+ - C 
+ - CE
+
+
