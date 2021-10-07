@@ -103,3 +103,13 @@ Tesztelendő funkciók:
  - Visszavonás
  - C 
  - CE
+
+# Üzleti folyamatok modellje
+
+Felhasználók:
+
+Alapvetően csak a számológép felületéhez és a használatához fér hozzá.
+
+Fejlesztők:
+
+Szintén hozzá tudnak férni a számológép felületéhez és használatához, viszont a karbantartást és a fejlesztést is ők végzik.
