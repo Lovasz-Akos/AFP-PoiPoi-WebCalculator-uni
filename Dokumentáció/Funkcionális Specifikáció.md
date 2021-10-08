@@ -92,3 +92,5 @@ A fejlesztő ezeken kívűl egyetemhez szükséges műveleteket, és további el
  
  Egyéb: Ha rossz műveleti jelre kattintasz, ki tudod cserélni a következőnek leütött műveleti jellel. Pl.: Ha a +, azaz az összeadás jelre kattintottál rá, és még a számjegy bevitele előtt rákattintasz a ×, azaz a szorzás jelre, akkor a műveleti jel a ×, azaz a szorzás lesz.
  
+
+excuse me but I have to put something here to test pull requests
