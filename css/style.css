@@ -28,6 +28,15 @@
   width: 56px;
   height: 54px;
 }
+btn-zero
+{
+  color: #29A8FF;
+  font-size: 2rem;
+  background: #303136;
+  border-radius: 16px;  
+  width: 128px;
+  height: 54px;  
+}
 .btn-short
 {
   color: #29A8FF;
