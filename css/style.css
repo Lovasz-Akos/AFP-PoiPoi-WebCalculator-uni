@@ -18,3 +18,13 @@
   background: #303136;
   border-radius: 16px;            
 }
+.btn-lightblue
+{
+  border: none;
+  color: #B2DAFF;
+  font-size: 2rem;
+  background: #005cb27c;
+  border-radius: 16px;  
+  width: 56px;
+  height: 54px;
+}
