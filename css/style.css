@@ -92,3 +92,13 @@
   width: 56px;
   height: 94px;
 }
+.btn-plus
+{
+  color: #29A8FF;
+  border-color: #005cb27c;
+  font-size: 2rem;
+  background: #005cb27c;
+  border-radius: 16px;  
+  width: 56px;
+  height: 94px;
+}
