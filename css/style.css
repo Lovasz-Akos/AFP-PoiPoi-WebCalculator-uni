@@ -8,3 +8,13 @@
   background: linear-gradient(191.34deg, #17181A -4.95%, #17181A 103.74%);
   border-radius: 39px; 
 } 
+.btn 
+{
+  /* a Figma modell adatai alapján */
+  color: #29A8FF;
+  font-size: 2rem;
+  width: 56px;
+  height: 54px;
+  background: #303136;
+  border-radius: 16px;            
+}
