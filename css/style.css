@@ -7,7 +7,19 @@
   top: 322px;
   background: linear-gradient(191.34deg, #17181A -4.95%, #17181A 103.74%);
   border-radius: 39px; 
+  margin: auto;
 } 
+
+.screen
+{
+  padding-top: 6rem;
+  margin: 0.3rem;
+  margin-left: 2rem;
+  margin-right: 2rem;
+  position: relative;
+  height: 20%;
+}
+
 .btn 
 {
   /* a Figma modell adatai alapján */
