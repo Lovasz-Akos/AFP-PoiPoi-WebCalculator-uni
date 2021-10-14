@@ -17,6 +17,13 @@
 		document.getElementById("result").value+=val 
       }
     }  
+
+	function clr() 
+    { 
+        document.getElementById("result").value = "" 
+        document.getElementById("partial-result").value = "" 
+    } 
+
   </script>
    
   <title>AFP PoiPoi WebCalculator</title>
@@ -41,7 +48,7 @@
 	<input class="btn-plus" type="button" value="+"/>     
 	<input class="btn-result" type="button" value="="/> 
 
-	<input class="btn-short" type="button" value="C"/>
+	<input class="btn-short" type="button" value="C"  onclick="clr()"/>
 	<input class="btn" type="button" value="CE"/>
 	<input class="btn" type="button" value="7" onclick="dis('7')"/> 
 	<input class="btn" type="button" value="4" onclick="dis('4')"/>
