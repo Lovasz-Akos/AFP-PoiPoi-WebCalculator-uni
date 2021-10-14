@@ -43,6 +43,16 @@
   font-size: 2.5rem;
 }  
 
+.btns 
+{
+  /* Grid System */
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: repeat(12, 0.5fr);
+  grid-column-gap: 5px;
+  grid-row-gap: 0px; 
+}
+
 .btn 
 {
   /* a Figma modell adatai alapján */
