@@ -53,6 +53,19 @@
   grid-row-gap: 0px; 
 }
 
+.btns-col-1{ /* 1. gomb oszlop: C CE 7 4 1 */
+  grid-area: 1 / 1 / 11 / 2;
+}
+.btns-col-2{ /* 2. gomb oszlop: X^2 <-- 8 5 2 */
+  grid-area: 1 / 2 / 11 / 3;
+}
+.btns-col-3{ /* 3. gomb oszlop: √x / 9 6 3 . */
+  grid-area: 1 / 3 / 12 / 4;
+}
+.btns-col-4{ /* 4. gomb oszlop: +|- × - */
+  grid-area: 1 / 4 / 7 / 5;
+}
+
 .btn 
 {
   /* a Figma modell adatai alapján */
