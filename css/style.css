@@ -65,6 +65,15 @@
 .btns-col-4{ /* 4. gomb oszlop: +|- × - */
   grid-area: 1 / 4 / 7 / 5;
 }
+.btns-plus {
+  grid-area: 7 / 4 / 10 / 5;
+}
+.btns-zero {
+  grid-area: 11 / 1 / 12 / 3;
+}
+.btns-result {
+  grid-area: 10 / 4 / 13 / 5;
+}
 
 .btn 
 {
