@@ -11,6 +11,7 @@ A projektünk html-ből, css-ből, javascript-ből fog összetevődni.
 
 Bár rengeteg számológép alkalmazás található a piacon, viszont ezek nagyrésze általában rengeteg zavaró reklámot tartalmaz, vagy esetleg bizonyos funkciók csak fizetés ellenében használhatóak.
 Akár az is előfordulhat, hogy csak egyetlen platformon érhető el.
+Pontosan ezekből az okokból kifolyólag döntöttünk úgy, hogy meg alkotunk egy teljesen ingyenes és reklámmentes számológépet, amit akár több platformon is lehet használni.
 
 # Vágyálom rendszer
 
