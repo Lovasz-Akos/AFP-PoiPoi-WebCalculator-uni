@@ -25,13 +25,21 @@ Itt a háttérben fejleszti, és tartja karban a programot a fejlesztő.
 # Funkcionális követelmények
 
 Kijelző -> Kijelző : A felhasználó által elvégzett műveletek és számolások itt jelennek meg.
+
 Gomb -> Összeadás : Két vagy akár több szám összeadása.
+
 Gomb -> Kivonás : Két vagy akár több szám kivonása egymásból.
+
 Gomb -> Szorzás : Két vagy akár több szám összeszorzása.
+
 Gomb -> Osztás : Két szám osztása egymással.
+
 Gomb -> Eredmény : A számítások befejezése, az erdemények kiíratása.
+
 Gomb -> Tizedes vessző : Megadhatjuk egy szának a tizedes vessző után levő értékeit.
+
 Gomb -> Előjel változtatás : Egy szám előjelének megváltoztatását teszi lehetővé.
+
 Gomb -> Visszavonás : Az utolsó számjegy törlése.
 
 # Rendszerre vonatkozó törvények, szabványok, ajánlások
