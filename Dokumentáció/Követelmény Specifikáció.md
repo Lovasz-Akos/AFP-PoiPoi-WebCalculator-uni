@@ -82,6 +82,13 @@ Megvizsgáltuk több számológép alkalmazásnak a kezelőfelületét és funkc
 - A felhasználónak, amennyiben rendelkezik az "alkalmazással" nincs szükségre internetkapcsolatra a használathoz
 - Az informatikai hallgatók részére pedig képes lesz számrendszerek közötti átváltásra is
 
+# Követelménylista
+
+Modul 		| ID 	| Név 					| v. 	| Kifejtás
+Jogosultság	| 1		| Jogosultsági szintek	| 1.0	| Admin : Rendszerhozzáférés, rendszer karbantartás, rendszerfejlesztés, program használata. 
+			|		|						|		| Felhasználó : Program használata.
+			|		|						|		| 
+			
 # Riportok
 
 A rendszer teljesen átlagosan működik akár egy átlagos számológép.
