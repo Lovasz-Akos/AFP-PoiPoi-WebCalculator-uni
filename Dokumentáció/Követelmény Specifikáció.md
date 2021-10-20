@@ -4,6 +4,8 @@ A csapatunk célja egy olyan web alapú számológép fejlesztése, ami elsősor
 Ezen felül pedig rendelkezik minden olyan funkcióval ami ki tudja elégíteni mind egy diák, mind egy informatikai hallgató igényeit is számítások tekintetében, viszont kellőképpen letisztult és felhasználóbarát a felülettel rendelkezik, ahhoz, hogy intuitív legyen a használata.
 Különböző számolási feladtok megoldását teszi majd lehetővé, legyen az akár sima összeadás, kivonás vagy számrendszerek közötti átváltás.
 Természetesen nem csak számítógépen lesz elérhető, hanem minél több platformon, tehát tableten és telefonon is.
+Használatához semmilyen regisztráció nem szükséges, bárki hozzáférhet.
+A projektünk html-ből, css-ből, javascript-ből fog összetevődni.
 
 # Jelenlegi helyzet
 
