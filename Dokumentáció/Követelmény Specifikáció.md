@@ -14,3 +14,11 @@ Akár az is előfordulhat, hogy csak egyetlen platformon érhető el.
 
 A projekt célja egy olyan web alapú számológép fejlesztése, amely teljesen ingyenes, és reklám mentes.
 A rendszer elérhető több platformon, weben és androidon is egyaránt.
+
+# Funkcionális követelmények
+
+Kijelző -> Kijelző : A felhasználó által elvégzett műveletek és számolások itt jelennek meg.
+Gomb -> Összeadás : Két vagy akár több szám összeadása.
+Gomb -> Kivonás : Két vagy akár több szám kivonása egymásból.
+Gomb -> Szorzás : Két vagy akár több szám összeszorzása.
+Gomb -> Osztás : Két szám osztása egymással.
