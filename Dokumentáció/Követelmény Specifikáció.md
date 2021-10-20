@@ -59,3 +59,5 @@ Megvizsgáltuk több számológép alkalmazásnak a kezelőfelületét és funkc
 
 - A felhasználónak semmilyen regisztráció nem szükséges a számológép használatához
 - A felület mobilon lesz natív, de a reszponzív kialakítás miatt máson is használható lesz
+- A felhasználó képes lesz a 4 alapművelet elvégzésére konkatenált módon
+- A számológép gyökvonásra és négyzetre emelésre is képes lesz
