@@ -82,6 +82,11 @@ Megvizsgáltuk több számológép alkalmazásnak a kezelőfelületét és funkc
 - A felhasználónak, amennyiben rendelkezik az "alkalmazással" nincs szükségre internetkapcsolatra a használathoz
 - Az informatikai hallgatók részére pedig képes lesz számrendszerek közötti átváltásra is
 
+# Riportok
+
+A rendszer teljesen átlagosan működik akár egy átlagos számológép.
+Az összeadás, kivonás, szorzás, osztás, négyzetre emelés, négyzetgyökre hozás műveletekre képes a számológép.
+
 # Fogalomtár
 
 - HTML: (angolul: HyperText Markup Language = hiperszöveges jelölőnyelv) egy leíró nyelv, melyet weboldalak készítéséhez fejlesztettek ki, miden weboldal alappillére.
