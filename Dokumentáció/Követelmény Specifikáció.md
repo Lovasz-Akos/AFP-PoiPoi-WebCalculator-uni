@@ -42,6 +42,16 @@ Gomb -> Előjel változtatás : Egy szám előjelének megváltoztatását teszi
 
 Gomb -> Visszavonás : Az utolsó számjegy törlése.
 
+Gomb -> C : Az éppen aktuálisan felvitt szám nullázása, a részeredmény is nulázásra kerül.
+
+Gomb -> CE : Az éppen aktuálisan felvitt szám nullázása, ha van részeredmény az megmarad.
+
+Gomb -> Számok : A számok gombjai, ezek 1-9-ig terjednek, ezekkel tudjuk felvinni a kívánt számokat a számoláshoz.
+
+Gomb -> Négyzet : Az éppen aktuálisan felvitt szám négyzetre emelése.
+
+Gomb -> Négyzetgyök : Az éppen aktuálisan felvitt szám négyzetgyökének kiírása.
+
 # Rendszerre vonatkozó törvények, szabványok, ajánlások
 
 A programunk teljesen ingyenes, bárki használhatja.
