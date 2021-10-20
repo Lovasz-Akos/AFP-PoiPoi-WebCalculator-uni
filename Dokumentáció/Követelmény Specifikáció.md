@@ -17,6 +17,10 @@ Pontosan ezekből az okokból kifolyólag döntöttünk úgy, hogy meg alkotunk 
 
 A projekt célja egy olyan web alapú számológép fejlesztése, amely teljesen ingyenes, és reklám mentes.
 A rendszer elérhető több platformon, weben és androidon is egyaránt.
+Látványos felülettel rendelkezik a program, hogy felkeltse a felhasználók
+figyelmét.
+A rendszernek van egy háttere amit csak a fejlesztő tud kezelni.
+Itt a háttérben fejleszti, és tartja karban a programot a fejlesztő.
 
 # Funkcionális követelmények
 
