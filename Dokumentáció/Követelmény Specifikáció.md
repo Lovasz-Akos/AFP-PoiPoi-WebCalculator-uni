@@ -55,3 +55,7 @@ A csapat több tagja is szembesült már azzal a problémával, amikor hiretelen
 Pontosan ezek miatt fogalmazódott meg az ötlet csapatunkban, hogy fejlesszünk egy olyan számológépet ami több platformon elérhető, ingyenes és reklámmentes.
 Megvizsgáltuk több számológép alkalmazásnak a kezelőfelületét és funkcióit, és ezekből próbáljuk megalkotni a megfelelő számológép alkalmazást.
 
+# Igényelt üzleti folyamatok
+
+- A felhasználónak semmilyen regisztráció nem szükséges a számológép használatához
+- A felület mobilon lesz natív, de a reszponzív kialakítás miatt máson is használható lesz
