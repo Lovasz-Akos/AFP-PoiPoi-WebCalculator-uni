@@ -42,4 +42,9 @@ Az alábbi böngészők közül bármelyiket lehet használni a programohoz:
  - Mozilla Firefox
  - Opera
  - Safari
+ 
+ Fogalmak:
+- HTML: (angolul: HyperText Markup Language = hiperszöveges jelölőnyelv) egy leíró nyelv, melyet weboldalak készítéséhez fejlesztettek ki, miden weboldal alappillére.
+- CSS: (Cascading Style Sheets, magyarul: lépcsőzetes stíluslapok)  egy stílusleíró nyelv, mely a HTML típusú strukturált dokumentumok megjelenését írja le.
+- JavaScript: Programozási nyelv egy objektumorientált, prototípus-alapú szkriptnyelv, amelyet weboldalakon elterjedten használnak.
 
