@@ -86,7 +86,12 @@ Megvizsgáltuk több számológép alkalmazásnak a kezelőfelületét és funkc
 
 A rendszer teljesen átlagosan működik akár egy átlagos számológép.
 Az összeadás, kivonás, szorzás, osztás, négyzetre emelés, négyzetgyökre hozás műveletekre képes a számológép.
-
+Továbbfejlesztési lehetőségként számos opció van.
+Ilyen opció például:
+ - Nevezetes szögfüggvények kezelése
+ - X-edik hatványra hozás
+ - stb.
+ 
 # Fogalomtár
 
 - HTML: (angolul: HyperText Markup Language = hiperszöveges jelölőnyelv) egy leíró nyelv, melyet weboldalak készítéséhez fejlesztettek ki, miden weboldal alappillére.
