@@ -32,9 +32,6 @@ Gomb -> Osztás : Két szám osztása egymással.
 Gomb -> Eredmény : A számítások befejezése, az erdemények kiíratása.
 Gomb -> Tizedes vessző : Megadhatjuk egy szának a tizedes vessző után levő értékeit.
 Gomb -> Előjel változtatás : Egy szám előjelének megváltoztatását teszi lehetővé.
-<<<<<<< Updated upstream
-Gomb -> Visszavonás : Az utolsó számjegy törlése.
-=======
 Gomb -> Visszavonás : Az utolsó számjegy törlése.
 
 # Rendszerre vonatkozó törvények, szabványok, ajánlások
@@ -46,4 +43,3 @@ Az alábbi böngészők közül bármelyiket lehet használni a programohoz:
  - Opera
  - Safari
 
->>>>>>> Stashed changes
