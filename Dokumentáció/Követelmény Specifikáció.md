@@ -79,6 +79,8 @@ Megvizsgáltuk több számológép alkalmazásnak a kezelőfelületét és funkc
 - A felület mobilon lesz natív, de a reszponzív kialakítás miatt máson is használható lesz
 - A felhasználó képes lesz a 4 alapművelet elvégzésére konkatenált módon
 - A számológép gyökvonásra és négyzetre emelésre is képes lesz
+- A felhasználónak, amennyiben rendelkezik az "alkalmazással" nincs szükségre internetkapcsolatra a használathoz
+- Az informatikai hallgatók részére pedig képes lesz számrendszerek közötti átváltásra is
 
 # Fogalomtár
 
