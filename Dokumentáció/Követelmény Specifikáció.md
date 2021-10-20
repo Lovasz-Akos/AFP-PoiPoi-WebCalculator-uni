@@ -61,3 +61,8 @@ Megvizsgáltuk több számológép alkalmazásnak a kezelőfelületét és funkc
 - A felület mobilon lesz natív, de a reszponzív kialakítás miatt máson is használható lesz
 - A felhasználó képes lesz a 4 alapművelet elvégzésére konkatenált módon
 - A számológép gyökvonásra és négyzetre emelésre is képes lesz
+
+# Fogalomtár
+
+- HTML: (angolul: HyperText Markup Language = hiperszöveges jelölőnyelv) egy leíró nyelv, melyet weboldalak készítéséhez fejlesztettek ki, miden weboldal alappillére.
+
