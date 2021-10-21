@@ -88,7 +88,6 @@ Megvizsgáltuk több számológép alkalmazásnak a kezelőfelületét és funkc
 Modul 		| ID 	| Név 					| v. 	| Kifejtés
 ------------|-------|-----------------------|-------|-----------------------------------------------------------------------------------------------------
 Jogosultság	|	1	| Jogosultsági szintek	| 1.0	| Admin : Rendszerhozzáférés, rendszer karbantartás, rendszerfejlesztés, program használata. Felhasználó : Program használata.
-------------|-------|-----------------------|-------|-----------------------------------------------------------------------------------------------------
 Felület		|	2	| Előnézeti felület		|		| Ez a felület lesz az, amit a felhasználó használni tud, azaz itt tudja igénybe venni a számológépet
 			
 # Riportok
