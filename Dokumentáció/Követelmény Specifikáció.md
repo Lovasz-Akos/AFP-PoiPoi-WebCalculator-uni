@@ -66,6 +66,7 @@ Az alábbi böngészők közül bármelyiket lehet használni a programohoz:
 - CSS: (Cascading Style Sheets, magyarul: lépcsőzetes stíluslapok)  egy stílusleíró nyelv, mely a HTML típusú strukturált dokumentumok megjelenését írja le.
 - JavaScript: Programozási nyelv egy objektumorientált, prototípus-alapú szkriptnyelv, amelyet weboldalakon elterjedten használnak.
 
+
 # Jelenlegi üzleti folyamatok modellje
 
 Manapság egyre többen használunk számológépet, akár iskolában, akár otthon a házi feladatok megírására, vagy akár akkor is ha hirtelen kiakarunk valamit számolni.
@@ -84,10 +85,11 @@ Megvizsgáltuk több számológép alkalmazásnak a kezelőfelületét és funkc
 
 # Követelménylista
 
-Modul 		| ID 	| Név 					| v. 	| Kifejtás
-Jogosultság	| 1		| Jogosultsági szintek	| 1.0	| Admin : Rendszerhozzáférés, rendszer karbantartás, rendszerfejlesztés, program használata. 
+Modul 		| ID 	| Név 					| v. 	| Kifejtés
+------------|-------|-----------------------|-------|-----------------------------------------------------------------------------------------------------
+Jogosultság	|	1	| Jogosultsági szintek	| 1.0	| Admin : Rendszerhozzáférés, rendszer karbantartás, rendszerfejlesztés, program használata. 
 			|		|						|		| Felhasználó : Program használata.
-			|		|						|		| 
+Felület		|	2	| Előnézeti felület		|		| Ez a felület lesz az, amit a felhasználó használni tud, azaz itt tudja igénybe venni a számológépet
 			
 # Riportok
 
